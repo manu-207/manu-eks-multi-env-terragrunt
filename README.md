@@ -1,2 +1,2 @@
-# manu-eks-multi-env-terragrunt
-deploy the eks with multi env with terragrunt
+# terragrunt-multi-env-management
+This repo will handle Terragrunt configuration files for multiple environment
